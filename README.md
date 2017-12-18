@@ -1,4 +1,9 @@
 # awesome-web-dev-books
+
+> 原文：[前端书籍大全中文版 ](https://github.com/jobbole/awesome-web-dev-books)
+
+> 作者：[jobbole](https://github.com/jobbole)
+
 ## 如果有人让你推荐前端技术书，请让他看这个列表
 
 ## 前言
